@@ -1,10 +1,9 @@
 # Bienvenue sur ma page de présentation 🌟
 
-## Bonjour, je suis **Lorenzo** 👋
+## Bonjour, je suis **Lorenzo** 👋 ![Photo de profil](https://via.placeholder.com/150 "Photo de Lorenzo")
 
-![Photo de profil](https://via.placeholder.com/150 "Photo de Lorenzo")
 
-J'habite à **Paris** 🏙️ et je suis passionné par le **développement** 💻.
+J'habite vers **Paris** 🏙️ et je suis passionné par le **développement** 💻.
 
 ---
 
@@ -18,14 +17,10 @@ J'habite à **Paris** 🏙️ et je suis passionné par le **développement** �
 
 ### 🌟 Ce que j'aime faire :
 - 🔹 Créer des **bots Discord** personnalisés.
-- 🔹 Apprendre et pratiquer le **développement web**.
 - 🔹 Collaborer sur des **projets open-source**.
 
----
-
-![Image de développement](https://via.placeholder.com/800x300 "Développement")
-
----
-
 ### 📫 Contactez-moi :
-Retrouvez-moi sur [**GitHub**](https://github.com) ou contactez-moi directement pour en savoir plus !  
+Si vous souhaitez discuter ou collaborer avec moi, contactez-moi sur **Discord** :  
+### 👉 `lorenzo60__` 👈
+
+Je répondrai avec plaisir ! 😊
