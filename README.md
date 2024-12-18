@@ -4,7 +4,7 @@
   <tr>
     <td>
       <h2>Salut, je suis <strong>Lorenzo</strong> 👋</h2>
-      <p>J'habite à <strong>Paris</strong> 🏙️ et je suis passionné par le <strong>développement</strong> 💻.</p>
+      <p>J'habite à <strong>Chantilly</strong> 🏙️ et je suis passionné par le <strong>développement</strong> 💻.</p>
       <p>Je me spécialise dans le <strong>développement de bots Discord</strong> et autres outils numériques.</p>
     </td>
     <td>
@@ -13,6 +13,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🚀 À propos de moi :
